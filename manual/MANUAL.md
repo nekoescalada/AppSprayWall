@@ -59,7 +59,7 @@ dirección a mano.
 
 ![Pantalla de muros](capturas/02-muros.png)
 
-Hay cinco: **Spray Wall**, **Panel 0º**, **Panel 5º**, **Panel 15º** y la **Panorámica** de toda la
+Hay cinco: **Spray Wall**, **Panel vertical**, **Panel 5º**, **Panel 15º** y la **Panorámica** de toda la
 sala. Cada tarjeta indica la inclinación y cuántos bloques tiene puestos.
 
 La Panorámica es distinta: es una foto de la sala entera, así que ocupa el ancho completo y no lleva

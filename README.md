@@ -38,7 +38,7 @@ suben a la app: lado mayor 2400 px, JPEG calidad 82.
 | Archivo en la app | Muro | Ángulo | Resolución |
 |---|---|---|---|
 | `spraywall.jpg` | Spray Wall (principal, muy denso de presas) | 0º | 2400x2295 |
-| `muro-0.jpg` | Panel 0º | 0º | 2400x2263 |
+| `muro-0.jpg` | Panel vertical | 0º | 2400x2263 |
 | `muro-5.jpg` | Panel 5º | 5º | 1769x2400 |
 | `muro-15.jpg` | Panel 15º | 15º | 2165x2400 |
 | `panoramica-big.jpg` | Panorámica de toda la sala | — | 8000x2595 |
